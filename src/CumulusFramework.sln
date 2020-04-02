@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CumulusFramework.Domain", "CumulusFramework.Domain\CumulusFramework.Domain.csproj", "{F1090F5F-8220-4911-840D-9B2CB0524B00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CumulusFramework.Encryption", "CumulusFramework.Encryption\CumulusFramework.Encryption.csproj", "{38EC085B-9293-4AC9-83EA-480D69385FDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CumulusFramework.Environment", "CumulusFramework.Environment\CumulusFramework.Environment.csproj", "{6975434B-8147-451A-AD5B-F655E2535356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CumulusFramework.Util", "CumulusFramework.Util\CumulusFramework.Util.csproj", "{828FB6CF-38A3-4B1A-8666-26921821A170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CumulusFramework.Infra.Data", "CumulusFramework.Infra.Data\CumulusFramework.Infra.Data.csproj", "{3748AA18-92CE-4E66-B936-7F9151C8CFF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1090F5F-8220-4911-840D-9B2CB0524B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1090F5F-8220-4911-840D-9B2CB0524B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1090F5F-8220-4911-840D-9B2CB0524B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1090F5F-8220-4911-840D-9B2CB0524B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38EC085B-9293-4AC9-83EA-480D69385FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38EC085B-9293-4AC9-83EA-480D69385FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38EC085B-9293-4AC9-83EA-480D69385FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38EC085B-9293-4AC9-83EA-480D69385FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6975434B-8147-451A-AD5B-F655E2535356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6975434B-8147-451A-AD5B-F655E2535356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6975434B-8147-451A-AD5B-F655E2535356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6975434B-8147-451A-AD5B-F655E2535356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828FB6CF-38A3-4B1A-8666-26921821A170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828FB6CF-38A3-4B1A-8666-26921821A170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828FB6CF-38A3-4B1A-8666-26921821A170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828FB6CF-38A3-4B1A-8666-26921821A170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3748AA18-92CE-4E66-B936-7F9151C8CFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3748AA18-92CE-4E66-B936-7F9151C8CFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3748AA18-92CE-4E66-B936-7F9151C8CFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3748AA18-92CE-4E66-B936-7F9151C8CFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D516768-EC25-46E6-964B-C73375C8AB9C}
+	EndGlobalSection
+EndGlobal
